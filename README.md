@@ -12,8 +12,6 @@ nhn academy algorithm study
 - Git 방법은 [Git 스타일 가이드](https://github.com/ikaruce/git-style-guide)를 참조하시면 됩니다.
 
 ### Pull Request 규칙
-- 반드시 main 브랜치에서 작업하지 않습니다.
-    - 새로운 브랜치를 생성 후 그 위에서 작업합니다. 
 - PR 요청하기 전 fetch와 rebase를 먼저 동기화를 해주세요.
     - `git fetch upstream main`
     - `git rebase upstream/main`
