@@ -21,3 +21,5 @@ nhn academy algorithm study
     - 수정과 리팩터링 2개 작업은 반드시 각 한 커밋으로 나눠서 올립니다.
 - 마지막 줄 공백 규칙을 따릅니다.
     - 파일 끝에 빈 줄을 추가함으로써 변경 사항을 올바르게 감지 할 수 있어 공백 규칙을 적용합니다.
+- Issue 사용하기 (https://devlog-wjdrbs96.tistory.com/227)
+
