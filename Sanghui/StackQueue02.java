@@ -1,5 +1,4 @@
 import java.util.LinkedList;
-import java.util.List;
 import java.util.Queue;
 
 public class StackQueue02 {
@@ -14,8 +13,6 @@ public class StackQueue02 {
                 list.add((int)Math.ceil(days));
             }
 
-            
-            
             while (!list.isEmpty()) {
                 int first = list.poll();
                 int num = 1;
